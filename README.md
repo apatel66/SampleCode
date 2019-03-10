@@ -5,7 +5,7 @@ Here are a few programs written by me to provide a brief overview of my coding s
 
 ## C++
 ### USACO Training Problems
-Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency]
+Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency.
 Visit the [USACO Traning Page](https://www.train.usaco.org) for more information.
 
 - USACO Checker Challenge
@@ -23,8 +23,8 @@ $ cd Downloads/SampleCode-master
 ```
 3. Enter `ls` to view the various program folders.
 4. Enter `cd` + the folder name to go into the folder. The folders will all start with "USACO".
-   TIP: If you have typed enough characters, press `TAB` and the rest of the word will fill in given you are in the right 
-   directory.
+   (Tip: If you have typed enough characters, press `Tab` and the rest of the word will fill in given you are in the right 
+   directory)
 5. Enter `ls` to view the files inside the folder. There should be a c++ file, an input file and a textfile containing the 
    output. For eaxmple, if I was in the `USACOChecker` folder, I would see `checker.cpp`, `checker.in`, and 
    `checkerOutput.txt`.
