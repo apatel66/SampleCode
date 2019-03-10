@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   APCS
-// LAST MODIFIED    :   November 5, 2018
-// PROBLEM ID       :   USACO Party Lamps
-// DESCRIPTION      :   Find the given configurations of lamps given the number of button presses
-// SOURCES/HELP     : 
-
-/*
- ID: arjav.p1
- TASK: lamps
- LANG: C++
-*/
-
 /*             
     Arjav Patel - USACO Party Lamps
     November 5, 2018
@@ -50,7 +37,6 @@ vector <bool> curr;
 vector <int> test;
 vector <string> fin;
 ifstream filestreamIn ("lamps.in");
-ofstream filestreamOut ("lamps.out");
 
 //Add next lamp configuration to answer array
 void addAns() {
@@ -177,12 +163,12 @@ int main () {
   //Sort answer vector and print
   sort(fin.begin(), fin.end());
   for (int i = 0; i < fin.size(); ++i) {
-      filestreamOut << fin[i] << endl;
+      cout << fin[i] << endl;
   }
 
   //If no solution, print "IMPOSSIBLE"
   if(check2 == 0) {
-      filestreamOut << "IMPOSSIBLE" << endl;
+      cout << "IMPOSSIBLE" << endl;
   }
 
   //End program
