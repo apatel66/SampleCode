@@ -45,7 +45,7 @@ $ open problemNameOutput.txt
 
 
 ## Java
-I included a sample program I wrote as practice for my FIRST FRC robotics team. Its purpose is to control a robot drive base via a controller.
+I included a sample program I wrote as practice for my FIRST FRC robotics team. Its purpose is to control a robot drive base via a joystick, similar to a Xbox controller.
 Click on the `JavaRobotCode` folder to see my code.
 
 
