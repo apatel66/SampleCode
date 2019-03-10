@@ -22,7 +22,7 @@ If you would like to try some of my programs out, here is how you can run them o
 $ cd Downloads/SampleCode-master
 ```
 3. Enter `ls` to view the various program folders.
-4. Enter `cd` + the folder name to go into the folder. The folders will all start with "USACO".
+4. Enter `cd` + the folder name to go into the folder. The folders with executable programs will all start with "USACO".
    (Tip: If you have typed enough characters, press `Tab` and the rest of the word will fill in - given you are in the right 
    directory)
 5. Enter `ls` to view the files inside the folder. There will be one program, a sample input, and a text file containing the 
