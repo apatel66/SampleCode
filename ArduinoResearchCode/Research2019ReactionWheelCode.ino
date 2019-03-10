@@ -193,7 +193,6 @@ void loop()
 
         if (currTime > speedTime) {
           state = 3;
-          //check = 0;
         }
     break;
 
@@ -205,14 +204,8 @@ void loop()
         digitalWrite(yellow, LOW);
         digitalWrite(green, HIGH);
 
-        /*if (check == 0) {
-          Serial.println("Speed reached");
-        }
-        check = 1;*/
-
         if (currTime > constTime) {
           state = 4;
-          //check = 0;
         }
     break;
 
@@ -223,11 +216,6 @@ void loop()
         analogWrite(motor, 0);
         digitalWrite(green, LOW);
         digitalWrite(red, HIGH);
-
-        /*if (check == 0) {
-          Serial.println("Stopping motor");
-        }
-        check = 1;*/
     break;
   }
 }
