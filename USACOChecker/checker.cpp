@@ -101,14 +101,13 @@ int place (int line) {
 int main () {
     //Create input and output files and input the size of array
     ifstream fin ("checker.in");
-    ofstream fout ("checker.out");
     fin >> size;
 
     //Go to the function, start at row one
     place (1);
 
     //Output answer and number of solutions
-    fout << ans << solutions << endl;
+    cout << ans << solutions << endl;
  
     //Exit program
     return 0;
