@@ -23,7 +23,7 @@ $ cd Downloads/SampleCode-master
 ```
 3. Enter `ls` to view the various program folders.
 4. Enter `cd` + the folder name to go into the folder. The folders will all start with "USACO".
-   (Tip: If you have typed enough characters, press `Tab` and the rest of the word will fill in given you are in the right 
+   (Tip: If you have typed enough characters, press `Tab` and the rest of the word will fill in - given you are in the right 
    directory)
 5. Enter `ls` to view the files inside the folder. There should be a c++ file, an input file and a textfile containing the 
    output. For eaxmple, if I was in the `USACOChecker` folder, I would see `checker.cpp`, `checker.in`, and 
