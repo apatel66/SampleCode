@@ -1,5 +1,5 @@
 # SampleCode - Arjav Patel
-Here are a few programs written by me to provide a brief overview of my coding style.
+Here are a few programs I wrote to provide a brief overview of my coding style.
 - Click on each folder and the file indside to view the code.
 - Descriptions for each program are commented at the top of each code.
 
