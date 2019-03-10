@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   Hex
-// LAST MODIFIED    :   June 30, 2018
-// PROBLEM ID       :   USACO Healthy Holsteins
-// DESCRIPTION      :   Find out the minimum number of scoops needed to feed the cows
-// SOURCES/HELP     :  
-
-/*
- ID: arjav.p1
- TASK: holstein
- LANG: C++
-*/
-
 /*             
     Arjav Patel - USACO Healthy Hosteins
     June 30, 2018
@@ -108,7 +95,6 @@ int makeCombo (int lowest, int highest, int nums, int sum) {
 int main () {
   //Opens the input file and makes the output file 
   ifstream fin ("holstein.in");
-  ofstream fout ("holstein.out");
 
   //Input the number of vitamins and feeds and the type of vitamins
   fin >> numVitamins;
@@ -131,11 +117,11 @@ int main () {
 
   //Sort the list and output number of feed and the type of feeds in order
   sort (feedsUsed.begin(), feedsUsed.end());
-  fout << feedsUsed.size();
+  cout << feedsUsed.size();
   for (int i = 0; i < feedsUsed.size(); ++i) {
-    fout << " " << feedsUsed[i];
+    cout << " " << feedsUsed[i];
   }
-  fout << endl;
+  cout << endl;
 
   //Exit program
   return 0;
