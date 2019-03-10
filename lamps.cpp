@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   APCS
-// LAST MODIFIED    :   November 5, 2018
-// PROBLEM ID       :   USACO Party Lamps
-// DESCRIPTION      :   Find the given configurations of lamps given the number of button presses
-// SOURCES/HELP     : 
-
-/*
- ID: arjav.p1
- TASK: lamps
- LANG: C++
-*/
-
 /*             
     Arjav Patel - USACO Party Lamps
     November 5, 2018
