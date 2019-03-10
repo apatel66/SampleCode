@@ -3,9 +3,8 @@ Here are a few programs written by Arjav Patel to provide a brief overview of hi
 - Click on each folder and the file indside to view the code
 - Descriptions for each program are commented at the top of each code
 
-
-##C++
-###USACO Training Problems
+## C++
+### USACO Training Problems
 Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency]
 Visit the [USACO Traning Page] (https://www.train.usaco.org) for more information
 
@@ -14,7 +13,7 @@ Visit the [USACO Traning Page] (https://www.train.usaco.org) for more informatio
 - USACO Healthy Holsteins
 - USACO Party Lamps
 
-###Try My Programs Out!
+### Try My Programs Out!
 If you would like to try some of my programs out, here is how you can run them on a Command Line Interface:
 
 1. Click the green "Clone or download" button on the right and then click "Download ZIP". This will download a folder called    
@@ -34,7 +33,7 @@ $ cd Downloads/SampleCode-master
 ```
 $ g++ -o example problemName.cpp
 ```
-   Remember, even though you can enter any word in place of example, problem name has to be the exact file name of the 
+   Remember, even though you can enter any word in place of "example", "problemName" has to be the exact file name of the 
    compiler
 7. Now to run the program, enter:
 ```
@@ -47,9 +46,9 @@ $ open problemNameOutput.txt
    This will open a text file of the correct answer. Check to see if my program works!
 
 
-##Java
+## Java
 
 
-##Arduino
+## Arduino
 
 
