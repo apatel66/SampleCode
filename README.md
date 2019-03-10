@@ -1,7 +1,7 @@
 # SampleCode - Arjav Patel
 Here are a few programs I wrote to provide a brief overview of my coding style.
-- Click on each folder and the file indside to view the code.
-- Descriptions for each program are commented at the top of each code.
+- Click on each folder and the file inside to view the code
+- Descriptions for each program are commented at the top of each code
 
 ## C++
 ### USACO Training Problems
