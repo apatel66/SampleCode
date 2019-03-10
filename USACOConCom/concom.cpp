@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   APCS
-// LAST MODIFIED    :   31 December 2018
-// PROBLEM ID       :   USACO Controlling comapnies
-// DESCRIPTION      :   Find out which companies own which
-// SOURCES/HELP     :   
-
-/*
-ID: arjav.p1
-LANG: C++
-TASK: concom
-*/
-
 /*             
     Arjav Patel - USACO Controlling Companies
     January 1, 2019
@@ -82,9 +69,8 @@ void control(int owner, int curr) {
 
 int main () {
     //Create input/output files
-	//Input the number of instances of controls
-	ifstream fin ("concom.in");
-    ofstream fout ("concom.out");
+    //Input the number of instances of controls
+    ifstream fin ("concom.in");
     fin >> num;
 
     //Input the owner company, owned company and percentage on control into vectors and arrays
@@ -117,7 +103,7 @@ int main () {
     //Output the ownership only if the compny owns a company other than itself
     for (int i = 0; i < ans.size(); ++i) {
         if (ans[i].first != ans[i].second) {
-            fout << ans[i].first << " " << ans[i].second << endl;
+            cout << ans[i].first << " " << ans[i].second << endl;
         }
     }
     
