@@ -5,7 +5,7 @@ Here are a few programs I wrote, which provide a sample of my coding abilities
 
 ## C++
 ### USACO Training Problems
-Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency.
+Series of 100 progressively difficult programming problems designed to improve individual coding proficiency and efficiency.
 Visit the [USACO Traning Page](http://usaco.org/index.php?page=training) for more information.
 
 - USACO Checker Challenge
