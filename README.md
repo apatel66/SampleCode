@@ -28,7 +28,7 @@ $ cd Downloads/SampleCode-master
 5. Enter `ls` to view the files inside the folder. There will be one program, a sample input, and a text file containing the 
    output. For eaxmple, if I was in the `USACOChecker` folder, I would see `checker.cpp`, `checker.in`, and 
    `checkerOutput.txt`.
-6. To compile the program enter the following code. Remember, even though you can enter any word in place of "example", 
+6. To compile the program, enter the following code. Remember, even though you can enter any word in place of "example", 
    "problemName" has to be the exact file name of the program.
 ```
 $ g++ -o example problemName.cpp
