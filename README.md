@@ -16,8 +16,7 @@ Visit the [USACO Traning Page](https://www.train.usaco.org) for more information
 ### Try My Programs Out!
 If you would like to try some of my programs out, here is how you can run them on a Command Line Interface:
 
-1. Click the green "Clone or download" button on the right and then click "Download ZIP". This will download a folder called    
-   "SampleCode-master" into your downloads folder
+1. Click the green "Clone or download" button on the right and then click "Download ZIP". This will download a folder called      "SampleCode-master" into your downloads folder
 2. Open up a new command line and enter the following to change your directory into the "SampleCode" folder
 ```
 $ cd Downloads/SampleCode-master
@@ -42,7 +41,7 @@ $ ./example
 ```
 $ open problemNameOutput.txt
 ```
-   This will open a text file of the correct answer. Check to see if my program works!
+9. This will open a text file of the correct answer. Check to see if my program works!
 
 
 ## Java
