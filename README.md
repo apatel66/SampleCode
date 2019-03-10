@@ -6,7 +6,7 @@ Here are a few programs written by me to provide a brief overview of my coding s
 ## C++
 ### USACO Training Problems
 Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency.
-Visit the [USACO Traning Page](https://train.usaco.org) for more information.
+Visit the [USACO Traning Page](train.usaco.org) for more information.
 
 - USACO Checker Challenge
 - USACO Controlling Companies
