@@ -1,12 +1,12 @@
 # SampleCode - Arjav Patel
-Here are a few programs written by Arjav Patel to provide a brief overview of his coding style
+Here are a few programs written by me to provide a brief overview of my coding style
 - Click on each folder and the file indside to view the code
 - Descriptions for each program are commented at the top of each code
 
 ## C++
 ### USACO Training Problems
 Series of 100 progressively difficult programming problems design to improve individual proficiency and efficiency]
-Visit the [USACO Traning Page] (https://www.train.usaco.org) for more information
+Visit the [USACO Traning Page](https://www.train.usaco.org) for more information
 
 - USACO Checker Challenge
 - USACO Controlling Companies
