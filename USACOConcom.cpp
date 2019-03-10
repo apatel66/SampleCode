@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   APCS
-// LAST MODIFIED    :   31 December 2018
-// PROBLEM ID       :   USACO Controlling comapnies
-// DESCRIPTION      :   Find out which companies own which
-// SOURCES/HELP     :   
-
-/*
-ID: arjav.p1
-LANG: C++
-TASK: concom
-*/
-
 /*             
     Arjav Patel - USACO Controlling Companies
     January 1, 2019
