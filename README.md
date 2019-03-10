@@ -1,5 +1,5 @@
 # SampleCode - Arjav Patel
-Here are a few programs I wrote to provide a brief overview of my coding style.
+Here are a few programs I wrote, which provide a sample of my coding abilities
 - Click on each folder and the file inside to view the code
 - Descriptions for each program are commented at the top of each code
 
@@ -25,7 +25,7 @@ $ cd Downloads/SampleCode-master
 4. Enter `cd` + the folder name to go into the folder. The folders will all start with "USACO".
    (Tip: If you have typed enough characters, press `Tab` and the rest of the word will fill in - given you are in the right 
    directory)
-5. Enter `ls` to view the files inside the folder. There should be a c++ file, an input file and a textfile containing the 
+5. Enter `ls` to view the files inside the folder. There will be one program, a sample input, and a text file containing the 
    output. For eaxmple, if I was in the `USACOChecker` folder, I would see `checker.cpp`, `checker.in`, and 
    `checkerOutput.txt`.
 6. To compile the program enter the following code. Remember, even though you can enter any word in place of "example", 
