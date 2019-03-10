@@ -1,17 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   Hex
-// LAST MODIFIED    :   18 Feb 2018
-// PROBLEM ID       :   USACO checker
-// DESCRIPTION      :   Find the max number of ways you canarrange queens
-//                  :   so they will not attack each other
-// SOURCES/HELP     :   USACO hints, stackoverflow.com, cplusplus.com, geeksforgeeks.org
-
-/*
- ID: arjav.p1
- LANG: C++
- TASK: checker
-*/
-
 /*             
     Arjav Patel - USACO Checker Challenge
     February 18, 2018
