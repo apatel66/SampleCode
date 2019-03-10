@@ -1,16 +1,3 @@
-// NAME             :   Arjav Patel
-// GROUP            :   Hex
-// LAST MODIFIED    :   June 30, 2018
-// PROBLEM ID       :   USACO Healthy Holsteins
-// DESCRIPTION      :   Find out the minimum number of scoops needed to feed the cows
-// SOURCES/HELP     :  
-
-/*
- ID: arjav.p1
- TASK: holstein
- LANG: C++
-*/
-
 /*             
     Arjav Patel - USACO Healthy Hosteins
     June 30, 2018
