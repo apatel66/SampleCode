@@ -14,7 +14,7 @@ Visit the [USACO Training Page](http://usaco.org/index.php?page=training) for mo
 - USACO Party Lamps
 
 ### Try My Programs Out!
-If you would like to try some of my programs out, here is how you can run them on a Command Line Interface:
+If you would like to try my USACO programs out, here is how you can run them on a Command Line Interface:
 
 1. Scroll up and click the green "Clone or download" button on the right, then click "Download ZIP". This will download a folder called "SampleCode-master" into your downloads folder.
 2. Open up a new command line and enter the following to change your directory into the "SampleCode" folder.
