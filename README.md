@@ -1,5 +1,5 @@
 # SampleCode - Arjav Patel
-Here are a few programs I wrote, which provide a sample of my coding abilities
+Here are a few programs I wrote, which provide a small sample of my coding abilities
 - Click on each folder and the file inside to view the code
 - Descriptions for each program are commented at the top of each code
 
