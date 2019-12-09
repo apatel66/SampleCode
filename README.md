@@ -11,6 +11,7 @@ Visit the [USACO Training Page](http://usaco.org/index.php?page=training) for mo
 - USACO Checker Challenge
 - USACO Controlling Companies
 - USACO Healthy Holsteins
+- USACO Humble Numbers
 - USACO Party Lamps
 
 ### Try My Programs Out!
