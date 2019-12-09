@@ -7,6 +7,7 @@
         - Robot moves in the same direction the joystick is being pushed in
         - Speed of robot is determined by how severe the joystick is being pushed
         - Robot only moves at 30% power
+        - This is different from actual robot code, however
 */
 
 import edu.wpi.first.wpilibj.TimedRobot;
