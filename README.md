@@ -14,6 +14,8 @@ Visit the [USACO Training Page](http://usaco.org/index.php?page=training) for mo
 - USACO Humble Numbers
 - USACO Party Lamps
 
+Although I have only included the C++ programs, I have solved many of the problems in Java as well.
+
 ### Try My Programs Out!
 If you would like to try my USACO programs out, here is how you can run them on a Command Line Interface:
 
