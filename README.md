@@ -14,8 +14,6 @@ Visit the [USACO Training Page](http://usaco.org/index.php?page=training) for mo
 - USACO Humble Numbers
 - USACO Party Lamps
 
-Although I have only included the C++ programs, I have solved many of the problems in Java as well.
-
 ### Try My Programs Out!
 If you would like to try my USACO programs out, here is how you can run them on a Command Line Interface:
 
@@ -48,7 +46,7 @@ $ open problemNameOutput.txt
 
 
 ## Java
-I have solved many of the USACO Training problems in Java as well. However, I included a sample program I wrote as practice for my FIRST FRC robotics team. Its purpose is to control a robot drive base with a joystick, similar to a Xbox controller.
+I have solved many of the USACO Training problems in Java as well, however, I included a sample program I wrote as practice for my FIRST FRC robotics team. Its purpose is to control a robot drive base with a joystick, similar to a Xbox controller.
 Click on the `JavaRobotCode` folder to see my code.
 
 
