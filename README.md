@@ -1,8 +1,7 @@
 # SampleCode - Arjav Patel
 Here are a few programs I wrote, which provide a small sample of my coding abilities. Click on each folder and the file(s) inside to view the code.
 
-*NOTE: Much of the programs that I have written were projects for class and I cannot post it here since it would be an Honor Code violation. However I can share them privately in an interview upon request*
-These projects include...
+*NOTE: Much of the programs that I have written were projects for class and I cannot post it here since it would be an Honor Code violation. However I can share them privately in an interview upon request. These projects include...*
 - Command line Euchre game with bots (C++) (EECS 280)
 - Wheel of Fortune game w/ GUI (Java) (EECS 285)
 - Spending tracker Android app (Java) (EECS 285)
@@ -10,12 +9,11 @@ These projects include...
 - Search Engine with map reduce (Python) (EECS 485)
 - Memory manager for operating systems (C++) (EECS 482)
 - Network file system (C++) (EECS 482)
-  
-## Arduino
-I also included a few programs I wrote as part of different research projects.
-- `(Arduino) 2019ResearchCode` - In 2018-2019, I worked with Western Micigan University's Aersospace CubeSat Laboratory. The intent was to program an Arduino UNO micorcontroller to spin a reaction wheel at different speeds.
-- `(Arduino) 2020ResearchCode` - In 2019-2020, I worked with Stryker engineers at StrykeForce Robotics. This program recieves telemetry data from a robot over UDP communication and displays it on the LCD screen for easy viewing. The type of data displayed is controlled by the robot's code in a seperate Java program. Unfortunately, this project was cut short due to Covid-19.
-  
+
+## React / Javascript
+- `(ReactJS) SkyscannerPriceViewer` - In order to get into Capital One's software engineering summit in 2021, I was tasked with building a flight price checker. I built it using React and the Skyscanner API. The user enters an origin, a destination, dates, and a currency, then the application with return a sorted list of flights in a table. The website also uses a color-blind friendly color pallate to improve accessibility. Here is the [GitHub repo](https://github.com/apatel66/skyscanner-api-website) and here is the [deployed webapp](https://apatel66.github.io/skyscanner-api-website/). Please note, results might not show up since the API key may have expired.
+- `(ReactJS) MarvinWebApp` - As part of EECS 449 (Conversational AIs), my group created a study AI chatbot called "Professor Marvin". Users upload a suite of PDFs to the chatbot, then once trained, users can interact with the chatbot like it's a personal tutor. Users can ask for summaries, Q/As, and vocab definitions. I built the web-app front-end using React, which included home, instruction, and about screens along with a drag-and-drop file upload and a chat interface.
+
 ## C++
 ### USACO Training Problems
 Series of 100 progressively difficult programming problems designed to improve individual coding proficiency and efficiency.
@@ -57,9 +55,10 @@ $ open problemNameOutput.txt
 ```
 9. This will open a text file of the correct answer. Check to see if my program works!
 
+## Arduino
+I also included a few programs I wrote as part of different research projects.
+- `(Arduino) 2019ResearchCode` - In 2018-2019, I worked with Western Micigan University's Aersospace CubeSat Laboratory. The intent was to program an Arduino UNO micorcontroller to spin a reaction wheel at different speeds.
+- `(Arduino) 2020ResearchCode` - In 2019-2020, I worked with Stryker engineers at StrykeForce Robotics. This program recieves telemetry data from a robot over UDP communication and displays it on the LCD screen for easy viewing. The type of data displayed is controlled by the robot's code in a seperate Java program. Unfortunately, this project was cut short due to Covid-19.
+
 ## Java
 - `(Java) JavaRobotCode` - I have solved many of the USACO Training problems in Java as well, however, I included a sample program I wrote as practice for my FIRST FRC robotics team in 2019. Its purpose is to control a robot drive base with a joystick, similar to a Xbox controller.
-
-## React / Javascript
-- `(ReactJS) SkyscannerPriceViewer` - In order to get into Capital One's software engineering summit in 2021, I was tasked with building a flight price checker. I built it using React and the Skyscanner API. The user enters an origin, a destination, dates, and a currency, then the application with return a sorted list of flights in a table. The website also uses a color-blind friendly color pallate to improve accessibility. Here is the [GitHub repo]() and here is the [deployed webapp](). Please note, results might not show up since the API key may have expired.
-- `(ReactJS) MarvinWebApp` - As part of EECS 449 (Conversational AIs), my group created a study AI chatbot called "Professor Marvin". Users upload a suite of PDFs to the chatbot, then once trained, users can interact with the chatbot like it's a personal tutor. Users can ask for summaries, Q/As, and vocab definitions. I built the front-end using React for the web-app which included a home, instruction, and about screens along with a drag-and-drop file upload and a chat interface.
