@@ -55,10 +55,5 @@ $ open problemNameOutput.txt
 ```
 9. This will open a text file of the correct answer. Check to see if my program works!
 
-## Arduino
-I also included a few programs I wrote as part of different research projects.
-- `(Arduino) 2019ResearchCode` - In 2018-2019, I worked with Western Micigan University's Aersospace CubeSat Laboratory. The intent was to program an Arduino UNO micorcontroller to spin a reaction wheel at different speeds.
-- `(Arduino) 2020ResearchCode` - In 2019-2020, I worked with Stryker engineers at StrykeForce Robotics. This program recieves telemetry data from a robot over UDP communication and displays it on the LCD screen for easy viewing. The type of data displayed is controlled by the robot's code in a seperate Java program. Unfortunately, this project was cut short due to Covid-19.
-
 ## Java
 - `(Java) JavaRobotCode` - I have solved many of the USACO Training problems in Java as well, however, I included a sample program I wrote as practice for my FIRST FRC robotics team in 2019. Its purpose is to control a robot drive base with a joystick, similar to a Xbox controller.
